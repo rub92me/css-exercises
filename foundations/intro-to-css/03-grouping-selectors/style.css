@@ -1,0 +1,10 @@
+.butt {
+    font-size: 28px;
+}
+.butt.black {
+    background-color: black;
+    color: white
+}
+.butt.yellow {
+    background-color: yellow;
+}
